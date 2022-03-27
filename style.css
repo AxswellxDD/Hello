@@ -1,0 +1,17 @@
+*{
+    font-weight: 1000;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("https://images6.alphacoders.com/860/thumb-350-860645.png");
+    background-size: 85vh, 100vh, 50vh;
+}
+
+.mario {
+    position: absolute;
+    top: 150px;
+    left: 60px;
+    right: 10px;
+}
+
+
