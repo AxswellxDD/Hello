@@ -2,5 +2,4 @@
 
 ### Nie ogarniam tego ale sie naucze
 
-npm install
-npm start
+[General info](#general-info)
